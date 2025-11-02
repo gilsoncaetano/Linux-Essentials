@@ -15,4 +15,3 @@ Cada pessoa que usa o use o *sistema* tem uma pasta aqui com seus arquivos.
 /home/joao
 /home/pedro
 ```
-### Objetivo
