@@ -8,7 +8,7 @@ Cada pessoa que usa o use o *sistema* tem uma pasta aqui com seus arquivos.
 ---
 
 ## Experiencia do usuários 
-Dentro da pasta '/home' , termos: ##
+Dentro da pasta '/home' , termos:
 
 '''bash
 /home/ana
