@@ -5,7 +5,11 @@ Ambiente das aulas práticas
 A pasta '/home' é como a **casa dos usuários** no S.O.
 Cada pessoa que usa o use o *sistema* tem uma pasta aqui com seus arquivos.
 
-## Experiencia do usuários ##
+---
+
+## Experiencia do usuários 
+Dentro da pasta '/home', termos: ##
+'''bash
 /home/ana
 /home/joao
 /home/pedro
