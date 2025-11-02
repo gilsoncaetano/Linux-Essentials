@@ -14,6 +14,5 @@ Cada pessoa que usa o use o *sistema* tem uma pasta aqui com seus arquivos.
 /home/ana
 /home/joao
 /home/pedro
-```bash
-
+```
 # - Objetivo
