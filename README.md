@@ -1,4 +1,4 @@
-# Explorando hábilidade do Linux-Essentials
+# Explorando Linux-Essentials
 Ambiente das aulas práticas
 
 # explorando a pasta '/home' no Linux
